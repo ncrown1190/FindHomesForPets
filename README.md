@@ -4,7 +4,7 @@ Pets application, an application that's used to find homes for stray or abandone
 ### Learning Objectives
 #### In this module,I demonstrated my ability to:
 
-- Use Visual Studio Code to develop a C# console application that uses a combination of selection and iteration statements to implement logical workflows.
-* Evaluate the underlying conditions in my application and make an informed decision between selection statement options.
-* Evaluate the underlying conditions in my application and make an informed decision between iteration statement options.
+- Used Visual Studio Code to develop a C# console application that uses a combination of selection and iteration statements to implement logical workflows.
+* Evaluated the underlying conditions in my application and made an informed decision between selection statement options.
+* Evaluated the underlying conditions in my application and made an informed decision between iteration statement options.
 * Scope variables at an appropriate level within an application.
